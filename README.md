@@ -8,6 +8,12 @@ J’aime transformer des idées complexes en systèmes clairs, fiables et mainte
 
 ---
 
+## 📈 Activité de code (lignes par jour)
+
+![Code activity](./stats/code_activity.svg)
+
+---
+
 ## 🧠 Qui suis-je ?
 
 - 🚀 Créateur de logiciels SaaS avec une approche pragmatique
