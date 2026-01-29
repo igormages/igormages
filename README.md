@@ -10,7 +10,7 @@ J’aime transformer des idées complexes en systèmes clairs, fiables et mainte
 
 ## 📈 Activité de code (lignes par jour)
 
-![Code activity](./stats/code_activity.svg)
+![Code activity 1y](./stats/code_activity_1y.svg)
 
 ---
 
